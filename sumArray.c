@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char const *argv[])
+int main(void)
 {
     int array[10];
     int i, numb, sum = 0;
